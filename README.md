@@ -2,7 +2,7 @@
 
 🎓 IT & Information Systems student  
 💻 Interested in technology, programming and software development  
-🚀 Currently learning Git, GitHub and python
+🚀 Currently learning Git, GitHub and Python
 
 ---
 
