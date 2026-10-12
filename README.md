@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fredrik
 
 🎓 IT & Information Systems student  
-💻 Interested in technology, programming and software development  
+💻 Interested in technology and programming
 🚀 Currently learning Git, GitHub and Python
 
 ---
